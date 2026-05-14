@@ -5,5 +5,7 @@ main: dev.alesixdev.clanPlusHook.ClanPlusHook
 api-version: '1.21.8'
 load: POSTWORLD
 
+depend: [ClansPlus]
+
 authors: [ AlesixDev (Alex Za.) ]
 website: https://alesix.site
