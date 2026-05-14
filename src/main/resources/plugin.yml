@@ -1,0 +1,9 @@
+name: ClanPlusHook
+version: '${version}'
+
+main: dev.alesixdev.clanPlusHook.ClanPlusHook
+api-version: '1.21.8'
+load: POSTWORLD
+
+authors: [ AlesixDev (Alex Za.) ]
+website: https://alesix.site
